@@ -1,7 +1,0 @@
-%%%% HASHDEEP-1.0
-%%%% size,md5,sha1,sha256,filename
-## Invoked from: C:\$$$\matt-groening\-\wsusoffline\client\md
-## C:\$$$\matt-groening\-\wsusoffline\client\md> ..\bin\hashdeep64.exe -c md5,sha1,sha256 -l -r ..\wddefs
-## 
-58155176,692f5910390440316417995b09763faf,c3548f7fda72731ba93387e1825ce63a1a1c68d8,a560e8a9a4baa2131c96f0a258bdfc071e4ac57e3ab709604aa0bccd6e5face7,..\wddefs\x86-glb\mpas-fe.exe
-58910896,e16179754e763d8d2c98c7622ca4a250,7db4a7d0a2cce139ccfd25c552cb2225ad5d926d,7376c47d81d2814dd9afd2f6c5c51cba8c547eb06c367e77699a2ce728d70059,..\wddefs\x64-glb\mpas-feX64.exe

@@ -1,6 +1,0 @@
-%%%% HASHDEEP-1.0
-%%%% size,md5,sha1,sha256,filename
-## Invoked from: C:\$$$\matt-groening\-\wsusoffline\client\md
-## C:\$$$\matt-groening\-\wsusoffline\client\md> ..\bin\hashdeep64.exe -c md5,sha1,sha256 -l -r ..\wsus
-## 
-615214470,f1fc66de6890273d4a5e615f0ffe0cbb,8def4e93ab55ebc14dcfb6e03cfaa866cf5298f6,4edb859f9f8982e4f7fbd90daea44b60ea4c838bcd7d212f19d02877ce365133,..\wsus\wsusscn2.cab
