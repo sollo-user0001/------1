@@ -1,0 +1,7 @@
+%%%% HASHDEEP-1.0
+%%%% size,md5,sha1,sha256,filename
+## Invoked from: C:\$$$\matt-groening\-\wsusoffline\client\md
+## C:\$$$\matt-groening\-\wsusoffline\client\md> ..\bin\hashdeep64.exe -c md5,sha1,sha256 -l -r ..\o2k10\csy
+## 
+1339456,3e0a11df3c080e5bed34396fe50a1703,5d26d688f99dc9d6930713c433fb39f47ef9c841,7742f16f9a3842e449b6faa4b6413f438af056a880ea2503c246999c1d9db5c3,..\o2k10\csy\eqnedt322010-kb4011610-fullfile-x86-cs-cz.exe
+668511152,c5f1adf7e4072ab9885a6c97cf96c38f,bd773fd1b10d2fbb5e4e6cddaec1ad56c133c8c3,938458844843c23b5de3941b13c273db9faa6d2d54d85773d02c64ca7c9ebddc,..\o2k10\csy\officesp2010-kb2687455-fullfile-x86-cs-cz.exe

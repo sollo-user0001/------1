@@ -1,0 +1,9 @@
+%%%% HASHDEEP-1.0
+%%%% size,md5,sha1,sha256,filename
+## Invoked from: C:\$$$\matt-groening\-\wsusoffline\client\md
+## C:\$$$\matt-groening\-\wsusoffline\client\md> ..\bin\hashdeep64.exe -c md5,sha1,sha256 -l ..\dotnet\*.exe
+## 
+6696464,6b016b3b9198cb5889857835acad0bc8,b3adada709612792688e92f4defcae31aca4d0fa,499dc560513b88147fb5c5fb33121e84a127f58bca6f6b64a20aff40835f2900,..\dotnet\NDP46-KB3045557-x86-x64-AllOS-DEU.exe
+5728720,ddedf63b51e4f0911a8854a309fcd9dd,7bc3851ea832b7815c15fa539044d650ace70e09,4a8effb5e202b937755f04a963f5b2ef9a53818da84247250ca9f468fbd99244,..\dotnet\ndp472-kb4054530-x86-x64-allos-deu.exe
+65444688,88bc05e20114a4506f40c36911de92fa,3049a85843eaf65e89e2336d5fe6e85e416797be,b21d33135e67e3486b154b11f7961d8e1cfd7a603267fb60febb4a6feab5cf87,..\dotnet\NDP46-KB3045557-x86-x64-AllOS-ENU.exe
+242743296,d481cda2625d9dd2731a00f482484d86,3dce66bae0dd71284ac7a971baed07030a186918,0582515bde321e072f8673e829e175ed2e7a53e803127c50253af76528e66bc1,..\dotnet\dotnetfx35.exe
